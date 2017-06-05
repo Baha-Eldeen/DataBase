@@ -1,0 +1,15 @@
+06-05 23:05:42.682 17332-17332/com.example.bahaeldeen.database E/AndroidRuntime: FATAL EXCEPTION: main
+                                                                                 java.lang.NullPointerException
+                                                                                     at com.example.bahaeldeen.database.regsiter$1.onClick(regsiter.java:43)
+                                                                                     at android.view.View.performClick(View.java:4439)
+                                                                                     at android.widget.Button.performClick(Button.java:139)
+                                                                                     at android.view.View$PerformClick.run(View.java:18395)
+                                                                                     at android.os.Handler.handleCallback(Handler.java:725)
+                                                                                     at android.os.Handler.dispatchMessage(Handler.java:92)
+                                                                                     at android.os.Looper.loop(Looper.java:176)
+                                                                                     at android.app.ActivityThread.main(ActivityThread.java:5317)
+                                                                                     at java.lang.reflect.Method.invokeNative(Native Method)
+                                                                                     at java.lang.reflect.Method.invoke(Method.java:511)
+                                                                                     at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:1102)
+                                                                                     at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:869)
+                                                                                     at dalvik.system.NativeStart.main(Native Method)
